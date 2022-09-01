@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://linkedin.com/in/mamun79" target="_blank">
+    <a href="https://www.linkedin.com/in/mamun79" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://hackerrank/maamun79">
+    <a href="https://www.hackerrank.com/maamun79">
       <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
     </a>
-    <a href="https://freecodecamp.org/maamun79">
+    <a href="https://www.freecodecamp.org/maamun79">
       <img src="https://img.shields.io/badge/freecodecamp-black?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
     </a>
   </div>
