@@ -30,7 +30,7 @@
   
   <p style="text-align: justify">I am a software engineer with passion for tailored solutions seeks the position of web developer in a thriving, exciting and growing company. Comes with Bachelor's degree in Information Technology and two years of experience with HTML, CSS, Javascript, PHP, OOP, Laravel, MySql, to provide quality support to the company's IT team in developing and deploying web-based event and services.<p/>
 
-  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/maamun79)
+  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mamun79)
 
 ### :hammer_and_wrench: Languages and Tools :
 
